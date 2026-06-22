@@ -11,8 +11,7 @@ official machine retirement in compliance with HTB's Terms of Service.
 
 ## Certifications
 - HTB CWES (Certified Web Exploitation Specialist)
-- OSCP+
-- HTB Pro Hacker
+- HTB Pro
 
 ## Contact
-[philipdietzel.ch](https://philipdietzel.ch)
+pdietzel98@gmail.com
