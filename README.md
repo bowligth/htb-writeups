@@ -9,10 +9,13 @@ official machine retirement in compliance with HTB's Terms of Service.
 |---|---|---|---|
 | [Altered](./altered/) | Linux | Hard | Rate Limit Bypass · PHP Type Juggling · SQLi · DirtyPipe (CVE-2022-0847) |
 | [Editorial](./editorial/) | Linux | Easy | SSRF · Internal API Enumeration · Git History · GitPython (CVE-2022-24439) |
+| [Instant](./instant/) | Linux | Medium | APK Reverse Engineering · Hardcoded JWT · Arbitrary File Read · Solar-PuTTY 3DES Decryption |
+| [Trick](./trick/) | Linux | Easy | DNS Zone Transfer · SQLi Auth Bypass · LFI Filter Bypass · fail2ban Group Abuse |
 
 ## Certifications
 - HTB CWES (Certified Web Exploitation Specialist)
-- HTB Pro
+- OSCP+
+- HTB Pro Hacker
 
 ## Contact
-pdietzel98@gmail.com
+[philipdietzel.ch](https://philipdietzel.ch)
